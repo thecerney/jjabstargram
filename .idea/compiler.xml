@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="com.nicekkong.jjabstargram-main.main" target="11" />
+      <module name="com.nicekkong.jjabstargram-main.test" target="11" />
       <module name="com.nicekkong.jjabstargram.main" target="1.8" />
       <module name="com.nicekkong.jjabstargram.test" target="1.8" />
     </bytecodeTargetLevel>
